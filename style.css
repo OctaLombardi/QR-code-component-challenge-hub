@@ -46,3 +46,9 @@
 }
 
 /*MOBILE*/
+@media (max-width: 720) {
+  .card {
+    width: 250px;
+    height: 400px;
+  }
+}
